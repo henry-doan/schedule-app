@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Header, Image, Button, Modal, Icon, Grid } from 'semantic-ui-react';
+import { Header, Button, Modal, Icon, Grid } from 'semantic-ui-react';
 import moment from 'moment';
 import ApptForm  from '../../business/appt/ApptForm';
 import ApptEdit from '../../business/appt/ApptEdit';

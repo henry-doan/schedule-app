@@ -1,5 +1,4 @@
 import React from 'react';
-import Slider from 'react-slick';
 import { Container, Grid, Image, Icon } from 'semantic-ui-react';
 import { BTestWrapper, BTestAuthor, TestSlider, BTestP } from '../../../styled-components/homeStyles';
 

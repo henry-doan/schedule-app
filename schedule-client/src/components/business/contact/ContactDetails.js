@@ -12,6 +12,7 @@ const ContactDetails = ({ address, email, phone, map }) => (
       style={{border: "0"}} 
       allowfullscreen="" 
       aria-hidden="false" 
+      title="map iframe"
       tabindex="0">
     </iframe>
     <Grid stackable columns={3} textAlign='center' padded style={{ color: 'cornflowerblue' }}>
